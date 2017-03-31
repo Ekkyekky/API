@@ -1,0 +1,3 @@
+http://tugas.96.lt/sekolah.php?pancal=view
+
+http://tugasapi.96.lt/sekolah.php?tampil=tampilkan
